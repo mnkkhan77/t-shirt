@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Navbar from "./components/Navbar/Navbar";
 import NavbarResponsive from "./components/NavbarResponsive/NavbarResponsive";
 import Footer from "./components/Footer/Footer";
-import Login from "./containers/Login";
+import Login from "./views/login/Login";
 import Dashboard from "./components/Dashboard/Dashboard";
 import Preference from "./components/Preferences/Preference";
 
